@@ -29,7 +29,7 @@ const Dashboard = ({
       ) : (
         <Fragment>
           <p>You have not yet a profile, please add some infp</p>
-          <Link to='/crete-profile' className='btn btn-primary my-1'>
+          <Link to='/create-profile' className='btn btn-primary my-1'>
             Create Profile
           </Link>
         </Fragment>
